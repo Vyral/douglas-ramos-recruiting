@@ -5,7 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Career Opportunities
     url: http://www.douglasramosteam.com/career-opportunities/
-
+  - title: Free Newsletter
+    url: /subscribe/
 
 client:
   name: Douglas Ramos
@@ -16,8 +17,8 @@ client:
 
     This blogs's mission is to Empower the Real Estate Professional. We will accomplished this by building strong relationships and Delivering top quality training and marketing ideas, that will help all agents achieved the highest degree of success in their business and personal life.
   market: North/Central Jersey
-  brand: Alliance Realty
-  brokerage: Century 21
+  brand: Century 21
+  brokerage: Alliance Realty
   address: North Stiles Street<br>Linden, NJ 07036
   phone: 908-587-5222 ext. 102
   phone_type: Office
@@ -79,7 +80,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: North/Central Jersey Real Estate Video Blog
+  hero_text: Passionately Committed To Your Success
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -97,7 +98,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: '#3a3a3c'
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
