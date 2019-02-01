@@ -29,10 +29,10 @@ I’m here today with Frank Boccuzzi of New Horizon Mitigation, an insurance sal
 
 05:50— Frank’s most interesting customer stories
 
-07:26— Information about Frank’s upcoming lunch-and-learn event for short sales
+07:26— Information about Frank’s upcoming Lunch-and-Learn event for short sales
 
 08:37— How to get in contact with Frank
 
-If you’d like to get in contact with Frank, give him a call at 908-838-9729, email Frank@NHMitigation.com, or visit www.NHMitigation.com.
+If you’d like to get in contact with Frank, give him a call at 908-838-9729, email [Frank@NHMitigation.com](mailto:Frank@NHMitigation.com), or visit [www.NHMitigation.com](http://www.NHMitigation.com){: target="_blank"}.
 
 If you have any real estate needs, have any questions, or need more information, feel free to reach out to me. I look forward to hearing from you soon.
