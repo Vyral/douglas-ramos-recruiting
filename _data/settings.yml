@@ -7,6 +7,8 @@ custom_links:
     url: http://www.douglasramosteam.com/career-opportunities/
   - title: Free Newsletter
     url: /subscribe/
+  - title: Events
+    url: https://closedshortsaleswithlittleornotime.eventbrite.com/
 
 client:
   name: Douglas Ramos
@@ -34,12 +36,12 @@ sidebar_CTA:
     CTA_link_text: "Schedule a Consultation"
     CTA_url: /contact/
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_title2: "Learn Success from our Classes"
+    CTA_text2: "Defy Mediocrity + Deliver Extraordinary Experience."
+    CTA_link_text2: "Upcoming Events"
+    CTA_url2: https://closedshortsaleswithlittleornotime.eventbrite.com/
 
 lender:
   show_section: false
