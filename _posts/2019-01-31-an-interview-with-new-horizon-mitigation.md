@@ -1,7 +1,7 @@
 ---
 layout: post
-title: An Interview With New Horizon Mitigation—an Insurance Sales Company
-date: 2019-01-31 19:24:14
+title: An Interview With New Horizon Mitigation
+date: 2019-01-31 19:24:00
 tags:
   - Lead Generation
 excerpt: 'In this interview, you’ll learn everything about New Horizon Mitigation.'
@@ -17,7 +17,7 @@ youtube_code: dQlPKaitzwU
 
 {% include youtube.html %}
 
-I’m here today with Frank Boccuzzi of New Horizon Mitigation, an insurance sales company. He’ll be sharing with us information about his business, its history, and what they do.
+I’m here today with Frank Boccuzzi of New Horizon Mitigation. He’ll be sharing with us information about his business, its history, and what they do.
 
 **For your convenience, I’ve included timestamps of our conversation topics. Feel free to navigate to the section(s) you’re interested in viewing:**
 
