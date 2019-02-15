@@ -31,4 +31,4 @@ What can you learn about servicing your own customers and marketing your busines
 
 {% include pullquote.html %}
 
-If you have any more questions for Marty, you can give him a call at (908) 294-0433. As always, if you have any questions for me, don’t hesitate to call or email me. I’d love to speak with you.
+If you have any more questions for Marty, you can give him a call at **(908) 294-0433**. As always, if you have any questions for me, don’t hesitate to call or email me. I’d love to speak with you.
