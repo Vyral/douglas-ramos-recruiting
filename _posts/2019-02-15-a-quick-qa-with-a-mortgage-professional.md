@@ -23,7 +23,7 @@ youtube_code: nUZku5z7pmc
 
 {% include youtube.html %}
 
-What can you learn about servicing your own customers and marketing your business from a mortgage professional? Today I’ve brought in loan originator Martin Witzburg for a quick interview so you can find out.&nbsp;
+What can a mortgage professional teach you about servicing your own customers and marketing your business from a mortgage professional? Today I’ve brought in loan originator Martin Witzburg for a quick interview so you can find out.&nbsp;
 
 **For your convenience, I’ve provided timestamps of the video above so you can skip ahead to the section(s) that interest you the most:&nbsp;**
 
