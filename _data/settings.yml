@@ -9,6 +9,8 @@ custom_links:
     url: /subscribe/
   - title: Events
     url: https://closedshortsaleswithlittleornotime.eventbrite.com/
+  - title: Free Book Offer
+    url: /free-book/
 
 client:
   name: Douglas Ramos

@@ -1702,6 +1702,9 @@ h6 {
 .center {
   text-align: center; }
 
+ul {
+  list-style: disc; }
+
 .container {
   width: 100%;
   max-width: 120rem;
@@ -2585,6 +2588,9 @@ form select {
 .asterisk {
   color: #fff; }
 
+.book-form {
+  width: 75%; }
+
 .contact-form {
   width: 100%;
   margin-bottom: 0; }
@@ -2676,6 +2682,16 @@ form select {
 
 .contact {
   font-size: 20px; }
+
+.free-book {
+  font-weight: bold;
+  display: block;
+  margin: 0 auto; }
+
+.free-book-subtitle {
+  font-weight: 400;
+  display: block;
+  margin: 0 auto 2rem auto; }
 
 .recruiting {
   text-align: center; }
