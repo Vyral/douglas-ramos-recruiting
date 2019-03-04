@@ -35,7 +35,7 @@ If you haven’t given much thought to how important it is to keep your present 
 
 {% include pullquote.html %}
 
-With that in mind, here are a couple more strategies you can use grow your business by creating and managing a killer database:&nbsp;
+With that in mind, here are a couple more strategies you can use to grow your business by creating and managing a killer database:&nbsp;
 
 * **Consider a “Five-a-Day**” contact program. It’s always easier to take small steps that will make a big impact. Start your day with a colorful piece of paper with five past clients, referral sources, or prospects. Make five touches and call every day, five days a week, and you’ll end each month with a healthy rotation through your database. The number of touches should be close to 100 calls. Your script doesn’t have to be complicated.&nbsp;
 * **Send a note.** If you’re embarrassed about not staying in touch, think about sending a fun note and include a call to action to get any information about neighborhood news or any real estate activity in your area.&nbsp;
