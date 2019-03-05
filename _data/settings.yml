@@ -45,6 +45,13 @@ second_sidebar_CTA:
     CTA_link_text2: "Upcoming Events"
     CTA_url2: https://closedshortsaleswithlittleornotime.eventbrite.com/
 
+third_sidebar_CTA:
+  - CTA_image_path3: /img/book.jpg
+    CTA_title3: "Claim Your FREE Book Today"
+    CTA_text3: "Secrets to Success from Leading Pros"
+    CTA_link_text3: "Send Me My Free Book!"
+    CTA_url3: /free-book/
+
 lender:
   show_section: false
   header_text: Preferred Lender
