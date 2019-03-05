@@ -1702,6 +1702,9 @@ h6 {
 .center {
   text-align: center; }
 
+p {
+  font-size: 18px; }
+
 ul {
   list-style: disc; }
 
