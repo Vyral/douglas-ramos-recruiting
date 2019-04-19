@@ -1,8 +1,14 @@
 ---
 layout: post
 title: How Training Factors Into Your Success in Real Estate
-date: 2019-04-18 20:39:41
+date: 2019-04-18 20:39:00
 tags:
+  - Buyer Prospects
+  - Lead Generation
+  - Lead Conversion
+  - Listing Presentation
+  - Reviews and Referrals
+  - Transaction Management
 excerpt: >-
   As an agent, proper training translates to sustained success, and today I’ll
   shed some light on some common questions related to this topic.
@@ -19,7 +25,7 @@ youtube_code: S1kkNQyUW28
 
 Today I’m joined by Gaby to answer some burning questions that are specific to agent training, how training can be an instrument for greater education and growing your business, and the kind of training that keeps an agent on track to succeed. &nbsp;&nbsp;
 
-Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;
+**Cited below for your convenience are timestamps that will direct you to various points in the video.** Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;
 
 0:26—Does my real estate education end once I receive my license?&nbsp;
 
