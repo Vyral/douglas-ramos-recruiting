@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 8 Core Values Century 21 Alliance Realty Lives By
-date: 2019-05-16 19:34:58
+date: 2019-05-16 19:34:00
 tags:
 excerpt: >-
   How do our team’s eight core values reflect our passion for helping agents
