@@ -7,7 +7,7 @@ tags:
   - Transaction Management
 excerpt: What does it take to get a deal from contract to close? Let’s discuss.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Douglas+Ramos/Douglas+Ramos+Century+21+_+How+Our+Transaction+Coordinators+Take+Deals+From+Contract+to+Close_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Douglas+Ramos/Douglas+Ramos+Century+21+_+How+Our+Transaction+Coordinators+Take+Deals+From+Contract+to+Close.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
