@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Our Transaction Coordinators Take Deals From Contract to Close?
+title: How Our Transaction Coordinators Take Deals From Contract to Close
 date: 2019-06-18 00:00:00
 tags:
   - Buyer Prospects
