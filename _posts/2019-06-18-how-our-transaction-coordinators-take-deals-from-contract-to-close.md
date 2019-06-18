@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/douglas-ramos---june-2019---1---youtube.jpg
 youtube_code: BxMIhSeG8Uc
 ---
 
