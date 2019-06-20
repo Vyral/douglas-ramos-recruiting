@@ -7,13 +7,13 @@ tags:
   - Transaction Management
 excerpt: What does it take to get a deal from contract to close? Let’s discuss.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Douglas+Ramos/Douglas+Ramos+Century+21+_+How+Our+Transaction+Coordinators+Take+Deals+From+Contract+to+Close.mp4
+  https://vyralmarketing.s3.amazonaws.com/Douglas+Ramos/Douglas+Ramos+Century+21+_+How+Our+Transaction+Coordinators+Take+Deals+From+Contract+to+Close+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/douglas-ramos---june-2019---1---youtube.jpg
-youtube_code: BxMIhSeG8Uc
+youtube_code: R4k7GEwRgHc
 ---
 
 {% include youtube.html %}
@@ -21,8 +21,6 @@ youtube_code: BxMIhSeG8Uc
 When it comes to real estate deals, there are a lot of steps that take place behind the scenes. To better explain how these steps are handled for buyers and sellers who work with our team, I recently sat down with our team’s closer (or ‘transaction coordinator’) JP for a discussion about his role.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
-
-0:24 - Introducing our team’s closer: JP
 
 0:42 - JP explains his role on our team
 
