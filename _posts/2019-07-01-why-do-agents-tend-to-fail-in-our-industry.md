@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Why Do Agents Tend to Fail in Our Industry?
-date: 2019-07-01 16:17:54
+date: 2019-07-01 04:17:00
 tags:
-  - Real Estate
 excerpt: >-
   Today’s video marks the beginning of my series where I discuss the top 10
   reasons that most real estate agents tend to fail in their careers. Here are
