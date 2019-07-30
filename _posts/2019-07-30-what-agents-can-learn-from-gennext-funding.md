@@ -1,9 +1,8 @@
 ---
 layout: post
 title: What Agents Can Learn from GenNEXT Funding
-date: 2019-07-30 15:24:02
+date: 2019-07-30 03:24:00
 tags:
-  - Real Estate
 excerpt: >-
   I recently sat down with Walter Santiago of GenNEXT Funding to talk about how
   his brand is helping agents and disrupting the lending industry.
