@@ -20,13 +20,13 @@ youtube_code: 4HLm0P_bvGw
 
 As you know, I love interviewing professionals within the real estate industry about their contributions to the business, and today’s guest definitely has a lot of knowledge to share.&nbsp;
 
-Joining me on this episode is my friend and fellow real estate expert Walter Santiago—the chief sales officer of GenNEXT Funding. Walter recently attended an incredible ICS training event, and he’s going to share a little bit of information about that experience with all of you today.&nbsp;
+Joining me on this episode is my friend and fellow real estate expert Walter Santiago—the chief sales officer of GenNEXT Funding. Walter recently attended an incredible ICS (Insightful Consultative Selling) training event, and he’s going to share a little bit of information about that experience with all of you today.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
 **00:21** - Introducing Walter Santiago
 
-**01:10** - Walter explains what ICS stands for and how the recent ICS training event impacted his approach to lending
+**01:10** - Walter explains what ICS (Insightful Consultative Selling) stands for and how the recent ICS training event impacted his approach to lending
 
 **03:00** - Walter shares how the ICS (Insightful Consultative Selling) model allows his team to better serve clients across different generations
 
@@ -36,7 +36,7 @@ Joining me on this episode is my friend and fellow real estate expert Walter San
 
 **11:44** - What can agents expect to learn at the next ICS training sessions?
 
-**16:11** - How GenNEXT Funding is disrupting the lending industry, and how much does the training cost?
+**16:11** - How is GenNEXT Funding is disrupting the lending industry, and how much does the training cost?
 
 **19:57** - Walter’s guarantee to you
 
