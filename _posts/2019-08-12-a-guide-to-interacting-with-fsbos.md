@@ -1,19 +1,19 @@
 ---
 layout: post
 title: A Guide to Interacting With FSBOs
-date: 2019-08-12 15:32:11
+date: 2019-08-12 15:32:00
 tags:
 excerpt: >-
   Today I’ll be teaching you about how to go after “For Sale By Owner” sellers.
   Stay tuned.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Douglas+Ramos/Douglas+Ramos+Century+21+_+A+Guide+to+Interacting+With+FSBOs.mp4
+  https://vyralmarketing.s3.amazonaws.com/Douglas+Ramos/Douglas+Ramos+Century+21+_+A+Guide+to+Interacting+With+FSBOs+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3PkbbATC_Ws
+youtube_code: kuy5EsBVwW8
 ---
 
 {% include youtube.html %}
