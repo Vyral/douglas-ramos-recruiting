@@ -21,7 +21,7 @@ youtube_code: 0ZP38H3c3WI
 
 {% include youtube.html %}
 
-Buyer agreements are also an excellent risk management tool; if agents have a firm grasp of what they should and shouldn’t do in various situations and can explain that to clients, they’re less likely to invite complaints (or litigations).
+**In addition to their crucial role in establishing the rights and responsibilities between a buyer's agent and their client,**&nbsp;buyer agreements are also an excellent risk management tool; if agents have a firm grasp of what they should and shouldn’t do in various situations and can explain that to clients, they’re less likely to invite complaints (or litigations).
 
 So why are agents so resistant to using an exclusive buyer agreement? In my opinion, **there are two emotions at play.**
 
