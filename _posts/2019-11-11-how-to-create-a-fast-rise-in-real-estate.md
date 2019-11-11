@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Create a Fast Rise in Real Estate
-date:
+date: 2019-11-11 20:12:45
 tags:
   - Buyer Prospects
   - Lead Generation
