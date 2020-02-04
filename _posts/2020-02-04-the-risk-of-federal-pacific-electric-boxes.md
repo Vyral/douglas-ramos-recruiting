@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Risk of Federal Pacific Electric Boxes
-date: 2020-02-04 22:42:53
+date: 2020-02-04 22:42:00
 tags:
 excerpt: >-
   I’m explaining why Federal Pacific electric boxes can be a hazard and need to
