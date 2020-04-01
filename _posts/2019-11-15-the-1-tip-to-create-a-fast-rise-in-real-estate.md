@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to Create a Fast Rise in Real Estate Tip #1'
+title: 'The #1 Tip to Create a Fast Rise in Real Estate'
 date: 2019-11-15 00:00:00
 tags:
   - Lead Generation
