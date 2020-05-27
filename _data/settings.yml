@@ -1,98 +1,113 @@
 audit_header: false
 title:
-description: Douglas Ramos, a top Real Estate Agent in North/Central Jersey, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: >-
+  Douglas Ramos, a top Real Estate Agent in North/Central Jersey, shares his own
+  internal real estate agent training for free. His Real Estate Training, Tips
+  and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Career Opportunities
-    url: http://www.douglasramosteam.com/career-opportunities/
+    url: 'http://www.douglasramosteam.com/career-opportunities/'
   - title: Free Newsletter
     url: /subscribe/
   - title: Events
-    url: https://closedshortsaleswithlittleornotime.eventbrite.com/
-  - title: Free Book Offer
-    url: /free-book/
-
+    url: 'https://closedshortsaleswithlittleornotime.eventbrite.com/'
 client:
   name: Douglas Ramos
   title:
   license_number:
-  about_markdown: |
-    In real estate since 1994, and a broker/owner since 1998, Douglas Ramos has been leading the North/Central Jersey real estate market with innovative approaches to marketing, systems, and coaching, while building a top- producing team with a “specialist” approach. Douglas launched the CENTURY 21 Alliance Realty New Jersey brand in 2017 and is CEO of the company. Prior to opening CENTURY 21 Alliance Realty, he was the broker/owner of Prudential Alliance Realty and RE/MAX Action Group Realty.
+  about_markdown: >
+    In real estate since 1994, and a broker/owner since 1998, Douglas Ramos has
+    been leading the North/Central Jersey real estate market with innovative
+    approaches to marketing, systems, and coaching, while building a top-
+    producing team with a “specialist” approach. Douglas launched the CENTURY 21
+    Alliance Realty New Jersey brand in 2017 and is CEO of the company. Prior to
+    opening CENTURY 21 Alliance Realty, he was the broker/owner of Prudential
+    Alliance Realty and RE/MAX Action Group Realty.
 
-    This blog’s mission is to empower the real estate professional. We will accomplish this by building strong relationships and delivering top-quality training and marketing ideas that will help all agents achieve the highest degree of success in their business and personal life.
+
+    This blog’s mission is to empower the real estate professional. We will
+    accomplish this by building strong relationships and delivering top-quality
+    training and marketing ideas that will help all agents achieve the highest
+    degree of success in their business and personal life.
   market: North/Central Jersey
   brand: Century 21
   brokerage: Alliance Realty
-  address: North Stiles Street<br>Linden, NJ 07036
+  address: 'North Stiles Street<br>Linden, NJ 07036'
   phone: 908-587-5222 ext. 102
   phone_type: Office
   phone2: 908-494-4611
   phone2_type: Mobile
   email: douglasr@c21ar.net
-  url: http://www.DouglasRamosTeam.com
-
+  url: 'http://www.DouglasRamosTeam.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
-    CTA_title: "Looking to take your business to new heights?"
-    CTA_text: "Let's talk about how Alliance Realty can help."
-    CTA_link_text: "Schedule a Consultation"
+    CTA_title: Looking to take your business to new heights?
+    CTA_text: Let's talk about how Alliance Realty can help.
+    CTA_link_text: Schedule a Consultation
     CTA_url: /contact/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Learn Success from our Classes"
-    CTA_text2: "Defy Mediocrity + Deliver Extraordinary Experience."
-    CTA_link_text2: "Upcoming Events"
-    CTA_url2: https://closedshortsaleswithlittleornotime.eventbrite.com/
-
+    CTA_title2: Learn Success from our Classes
+    CTA_text2: Defy Mediocrity + Deliver Extraordinary Experience.
+    CTA_link_text2: Upcoming Events
+    CTA_url2: 'https://closedshortsaleswithlittleornotime.eventbrite.com/'
 third_sidebar_CTA:
   - CTA_image_path3: /img/book.jpg
-    CTA_title3: "Claim Your FREE Book Today"
-    CTA_text3: "Secrets to Success from Leading Pros"
-    CTA_link_text3: "Send Me My Free Book!"
+    CTA_title3: Claim Your FREE Book Today
+    CTA_text3: Secrets to Success from Leading Pros
+    CTA_link_text3: Send Me My Free Book!
     CTA_url3: /free-book/
-
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/AllianceRealtyLinden/
-  linkedin_url: https://www.linkedin.com/in/douglaseramos/
+  facebook_url: 'https://www.facebook.com/AllianceRealtyLinden/'
+  linkedin_url: 'https://www.linkedin.com/in/douglaseramos/'
   gplus_url:
   youtube_url:
-  twitter_url: https://twitter.com/C21AllianceRlty
+  twitter_url: 'https://twitter.com/C21AllianceRlty'
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'North/Central Jersey Real Estate Podcast with Douglas Ramos'
-  categories: Education
+  title: North/Central Jersey Real Estate Podcast with Douglas Ramos
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the North/Central Jersey Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Alliance Realty - your professional North/Central Jersey Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North/Central Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Douglas Ramos'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the
+    North/Central Jersey Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Alliance Realty - your professional
+    North/Central Jersey Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in North/Central
+    Jersey, home selling tips, home for sale, home buying, home buying process,
+    property finder, property search, property, real estate market, estate
+    agent, realestate, real estate listings, buying a house, homes for sale,
+    mls, home buyer
+  author: Douglas Ramos
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Passionately Committed To Your Success
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -101,22 +116,19 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
